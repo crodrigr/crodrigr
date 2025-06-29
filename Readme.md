@@ -9,6 +9,9 @@
 - 🔭 I’m currently working on [campusland](https://www.instagram.com/campuslands/?hl=es)
 
 <h3 align="left">Connect with me:</h3>
+
+- 🔭 My Curriculum Vitae [cv](https://crodrigr.github.io/cv/)
+
 <p align="left">
 </p>
 
