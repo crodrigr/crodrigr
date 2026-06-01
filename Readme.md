@@ -1,19 +1,108 @@
+# Camilo Rodríguez
 
-<h1 align="center">Hi 👋, I'm Camilo</h1>
-<h3 align="center">A passionate backe developer from Colombia</h3>
+## Creador de OpenNxc
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=crodrigr&label=Profile%20views&color=0e75b6&style=flat" alt="crodrigr" /> </p>
+Soy Backend Engineer especializado en **Java, Spring, arquitectura de software, DevOps e inteligencia artificial aplicada**.  
+Creo sistemas backend modernos donde la escalabilidad, el rendimiento y la evolución tecnológica no son objetivos separados, sino parte de una misma estrategia.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crodrigr" alt="crodrigr" /></a> </p>
+Soy el creador de **OpenNxc**, una propuesta enfocada en construir plataformas backend más sólidas, modulares e inteligentes.
 
-- 🔭 I’m currently working on [campusland](https://www.instagram.com/campuslands/?hl=es)
+---
 
-<h3 align="left">Connect with me:</h3>
+## ¿Qué es OpenNxc?
 
-- 💼 My Curriculum Vitae [cv](https://crodrigr.github.io/cv/)
+**OpenNxc** es una visión de ingeniería orientada a desarrollar sistemas reales, preparados para crecer, integrarse y adaptarse.
 
-<p align="left">
-</p>
+Nace con una idea clara: construir software donde la **arquitectura**, la **operación**, el **rendimiento** y la **IA** trabajen juntos desde el principio.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+No se trata solo de desarrollar APIs.  
+Se trata de crear una base tecnológica lista para producción, capaz de escalar y evolucionar con criterio técnico.
+
+---
+
+## Ventajas de OpenNxc
+
+- 🏗️ **Arquitectura escalable** desde el diseño inicial
+- ⚡ **Alto rendimiento** con tecnologías modernas y reactivas
+- 🔁 **Integración distribuida** con eventos y mensajería
+- 🤖 **IA aplicada a sistemas reales**, no solo a demos
+- 🚀 **Enfoque cloud y DevOps**, listo para producción
+- 🧩 **Diseño modular y mantenible**, pensado para evolucionar
+
+---
+
+## Lo que hago
+
+- Diseño **arquitecturas de microservicios** con DDD, CQRS y SAGA
+- Desarrollo **sistemas reactivos** con Spring WebFlux y Project Reactor
+- Construyo **arquitecturas orientadas a eventos** con Kafka y RabbitMQ
+- Integro **IA en flujos reales** usando agentes, automatización y LLMs
+- Aplico **prácticas DevOps** con contenedores, despliegue y operación productiva
+
+---
+
+## Stack Tecnológico
+
+### Backend
+- Java
+- Spring Boot
+- Spring WebFlux
+- Spring Security
+- REST APIs
+- Programación reactiva
+
+### Arquitectura
+- Microservicios
+- DDD
+- CQRS
+- SAGA
+- Clean Architecture
+- Diseño de sistemas escalables
+
+### Datos y Mensajería
+- Apache Kafka
+- RabbitMQ
+- PostgreSQL
+- MongoDB
+- Redis
+
+### DevOps y Cloud
+- Docker
+- Docker Compose
+- AWS
+- GCP
+
+### AI Engineering
+- Agentes basados en LLM
+- Automatización impulsada por IA
+- Ollama
+- Modelos locales
+- Pipelines inteligentes
+
+---
+
+## Proyectos y Enfoque
+
+En mis proyectos trabajo sobre plataformas backend que priorizan:
+
+- escalabilidad
+- mantenibilidad
+- integración distribuida
+- rendimiento
+- automatización
+- incorporación práctica de inteligencia artificial
+
+Mi enfoque está puesto en **sistemas reales**, no en ejemplos simples ni CRUDs básicos.
+
+---
+
+## Filosofía
+
+> Construir sistemas que escalen, rindan y evolucionen, impulsados por arquitectura sólida e inteligencia artificial.
+
+---
+
+## Contacto
+
+- 💼 LinkedIn: [https://www.linkedin.com/in/camilo-rodriguez-209a8042/]
+- 🌐 OpenNxc: [https://crodrigr.github.io/web-openxc/]
