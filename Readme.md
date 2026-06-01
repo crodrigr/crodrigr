@@ -104,5 +104,5 @@ Mi enfoque está puesto en **sistemas reales**, no en ejemplos simples ni CRUDs 
 
 ## Contacto
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/camilo-rodriguez-209a8042/]
-- 🌐 OpenNxc: [https://crodrigr.github.io/web-openxc/]
+- 💼 LinkedIn: [https://l1nk.dev/bhs7svd]
+- 🌐 OpenNxc: [https://l1nq.com/38x1ctz]
